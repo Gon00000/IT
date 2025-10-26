@@ -269,7 +269,7 @@ $dept_result = mysqli_query($conn, $dept_query);
 
         <div class="filter-card">
             <h3 style="margin-bottom: 15px;">Report Filters</h3>
-            <form method="GET" action="reports_php.php">
+            <form method="GET" action="reports.php">
                 <div class="filter-row">
                     <div class="form-group">
                         <label>Start Date</label>
